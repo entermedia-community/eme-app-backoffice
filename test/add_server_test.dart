@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:eme_world/screens/profile/widgets/add_server_sheet.dart';
+import 'package:eme_app_backoffice/screens/profile/widgets/add_server_sheet.dart';
 import 'test_helpers.dart';
 
 void main() {

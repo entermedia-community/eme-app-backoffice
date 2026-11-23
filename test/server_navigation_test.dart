@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/screens/profile/widgets/server_card.dart';
-import 'package:eme_world/screens/server/server_detail_screen.dart';
-import 'package:eme_world/screens/server/tabs/server_chat_tab.dart';
+import 'package:eme_app_backoffice/screens/profile/widgets/server_card.dart';
+import 'package:eme_app_backoffice/screens/server/server_detail_screen.dart';
+import 'package:eme_app_backoffice/screens/server/tabs/server_chat_tab.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'test_helpers.dart';

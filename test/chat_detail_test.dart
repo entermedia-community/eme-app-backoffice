@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:eme_world/screens/chats/chat_detail_screen.dart';
-import 'package:eme_world/screens/chats/session_history_screen.dart';
+import 'package:eme_app_backoffice/screens/chats/chat_detail_screen.dart';
+import 'package:eme_app_backoffice/screens/chats/session_history_screen.dart';
 import 'test_helpers.dart';
 
 void main() {

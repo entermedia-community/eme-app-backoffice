@@ -2,9 +2,9 @@ import 'dart:typed_data';
 // ignore: depend_on_referenced_packages
 import 'package:cross_file/cross_file.dart';
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/screens/project/project_screen.dart';
-import 'package:eme_world/screens/projects/create_project_screen.dart';
-import 'package:eme_world/screens/projects/my_projects_screen.dart';
+import 'package:eme_app_backoffice/screens/project/project_screen.dart';
+import 'package:eme_app_backoffice/screens/projects/create_project_screen.dart';
+import 'package:eme_app_backoffice/screens/projects/my_projects_screen.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

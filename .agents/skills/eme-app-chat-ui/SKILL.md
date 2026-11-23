@@ -35,7 +35,7 @@ MCP chats (`mcp_chat_detail_screen.dart`) use `McpChatMessage`, not `ChatMessage
 
 Two inline composers send a message, then open the chat:
 - `lib/screens/profile/widgets/self_chat_composer.dart` — to the user's own chat (`connectUser(me, me)`).
-- `_GreetingComposer` in `lib/screens/eme_world/widgets/eme_profile_card.dart` — to another person,
+- `_GreetingComposer` in `lib/screens/eme_app_backoffice/widgets/eme_profile_card.dart` — to another person,
   pre-filled from `greeting_draft.dart`.
 
 Both connect, check `ChatSocketService().isConnected` and throw if false (because `sendMessage`

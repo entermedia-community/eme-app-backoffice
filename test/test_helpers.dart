@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/main.dart';
+import 'package:eme_app_backoffice/main.dart';
 
 class AuthenticatedMockAuthService implements IAuthService {
   EmUser user = EmUser(

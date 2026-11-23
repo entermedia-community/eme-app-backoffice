@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/screens/project/project_screen.dart';
-import 'package:eme_world/screens/project/widgets/project_info_sheet.dart';
-import 'package:eme_world/screens/server/tabs/server_chat_tab.dart';
-import 'package:eme_world/screens/server/tabs/server_goals_tab.dart';
-import 'package:eme_world/widgets/delta_viewer.dart';
-import 'package:eme_world/widgets/search/unified_search_screen.dart';
+import 'package:eme_app_backoffice/screens/project/project_screen.dart';
+import 'package:eme_app_backoffice/screens/project/widgets/project_info_sheet.dart';
+import 'package:eme_app_backoffice/screens/server/tabs/server_chat_tab.dart';
+import 'package:eme_app_backoffice/screens/server/tabs/server_goals_tab.dart';
+import 'package:eme_app_backoffice/widgets/delta_viewer.dart';
+import 'package:eme_app_backoffice/widgets/search/unified_search_screen.dart';
 import 'test_helpers.dart';
 
 Future<void> openInfoSheet(WidgetTester tester) async {

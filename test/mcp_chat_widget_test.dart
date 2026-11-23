@@ -1,8 +1,8 @@
 // TODO(mcp): hidden for now; restore with the MCP UI.
-// import 'package:eme_world/screens/chats/mcp_chat_detail_screen.dart';
-// import 'package:eme_world/screens/chats/widgets/add_mcp_server_sheet.dart';
-// import 'package:eme_world/screens/chats/widgets/mcp_server_info_sheet.dart';
-// import 'package:eme_world/screens/chats/widgets/mcp_tool_invocation_sheet.dart';
+// import 'package:eme_app_backoffice/screens/chats/mcp_chat_detail_screen.dart';
+// import 'package:eme_app_backoffice/screens/chats/widgets/add_mcp_server_sheet.dart';
+// import 'package:eme_app_backoffice/screens/chats/widgets/mcp_server_info_sheet.dart';
+// import 'package:eme_app_backoffice/screens/chats/widgets/mcp_tool_invocation_sheet.dart';
 // import 'package:flutter/material.dart';
 // import 'package:flutter_test/flutter_test.dart';
 //

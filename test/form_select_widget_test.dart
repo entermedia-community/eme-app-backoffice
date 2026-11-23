@@ -2,7 +2,7 @@ import 'package:flutter/material.dart' hide FormField;
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/screens/server/tabs/server_chat_tab.dart';
+import 'package:eme_app_backoffice/screens/server/tabs/server_chat_tab.dart';
 import 'test_helpers.dart';
 
 class _MockFormApiService extends MockApiService {

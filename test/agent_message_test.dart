@@ -1,9 +1,9 @@
 import 'dart:convert';
 
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/screens/chats/chat_detail_screen.dart';
-import 'package:eme_world/widgets/chat/agent_status_widgets.dart';
-import 'package:eme_world/widgets/delta_viewer.dart';
+import 'package:eme_app_backoffice/screens/chats/chat_detail_screen.dart';
+import 'package:eme_app_backoffice/widgets/chat/agent_status_widgets.dart';
+import 'package:eme_app_backoffice/widgets/delta_viewer.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';

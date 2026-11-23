@@ -3,10 +3,10 @@ import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/screens/auth/auth_gate.dart';
-import 'package:eme_world/screens/main_shell_screen.dart';
-import 'package:eme_world/widgets/auth/auth_modal_sheet.dart';
-import 'package:eme_world/widgets/auth/otp_input_field.dart';
+import 'package:eme_app_backoffice/screens/auth/auth_gate.dart';
+import 'package:eme_app_backoffice/screens/main_shell_screen.dart';
+import 'package:eme_app_backoffice/widgets/auth/auth_modal_sheet.dart';
+import 'package:eme_app_backoffice/widgets/auth/otp_input_field.dart';
 
 class MockAuthService implements IAuthService {
   String? mockToken;

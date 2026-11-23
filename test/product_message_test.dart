@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/screens/server/tabs/server_chat_tab.dart';
-import 'package:eme_world/widgets/chat/product_detail_modal.dart';
-import 'package:eme_world/widgets/chat/product_message_card.dart';
-import 'package:eme_world/widgets/chat/send_product_sheet.dart';
+import 'package:eme_app_backoffice/screens/server/tabs/server_chat_tab.dart';
+import 'package:eme_app_backoffice/widgets/chat/product_detail_modal.dart';
+import 'package:eme_app_backoffice/widgets/chat/product_message_card.dart';
+import 'package:eme_app_backoffice/widgets/chat/send_product_sheet.dart';
 import 'test_helpers.dart';
 
 class _MockProductApiService extends MockApiService {

@@ -6,11 +6,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:eme_app_sdk/eme_app_sdk.dart';
-import 'package:eme_world/screens/entity_asset/entity_asset_viewer_screen.dart';
-import 'package:eme_world/screens/project/project_screen.dart';
-import 'package:eme_world/widgets/entity_assets/entity_asset_list.dart';
-import 'package:eme_world/widgets/entity_assets/entity_asset_upload_button.dart';
-import 'package:eme_world/widgets/files/files_section.dart';
+import 'package:eme_app_backoffice/screens/entity_asset/entity_asset_viewer_screen.dart';
+import 'package:eme_app_backoffice/screens/project/project_screen.dart';
+import 'package:eme_app_backoffice/widgets/entity_assets/entity_asset_list.dart';
+import 'package:eme_app_backoffice/widgets/entity_assets/entity_asset_upload_button.dart';
+import 'package:eme_app_backoffice/widgets/files/files_section.dart';
 import 'test_helpers.dart';
 
 final class _FakeFile extends PlatformFile {

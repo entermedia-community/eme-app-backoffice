@@ -1,12 +1,12 @@
 {
 	"folders": [
 		{
-			"name": "eme_app_profile",
+			"name": "eme_app_backoffice",
 			"path": ".",
 		},
 		{
 			"name": "eme_chatbot",
-			"path": "../eme_chatbot",
+			"path": "../eme-app-chatbot",
 		},
 		{
 			"name": "eme_app_sdk",

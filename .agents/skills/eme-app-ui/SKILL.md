@@ -1,6 +1,6 @@
 ---
 name: eme-app-ui
-description: The product owner's UI preferences and the reusable UI building blocks of the EME Collective Intelligence app (eme_world) — app bar layout, navigation model (no bottom nav/drawer), "EME <first name>" naming, Search (combined people + servers), profile page, chat list filters, sizing/styling rules, Semantics ids, and widget-test gotchas. Use before any visual/UI change, new screen, button, filter, modal or layout tweak in eme-app-profile, so the result matches what the owner already asked for.
+description: The product owner's UI preferences and the reusable UI building blocks of the EME Collective Intelligence app (eme_app_backoffice) — app bar layout, navigation model (no bottom nav/drawer), "EME <first name>" naming, Search (combined people + servers), profile page, chat list filters, sizing/styling rules, Semantics ids, and widget-test gotchas. Use before any visual/UI change, new screen, button, filter, modal or layout tweak in eme-app-backoffice, so the result matches what the owner already asked for.
 ---
 
 # Building UI in the EME app — preferences and patterns
