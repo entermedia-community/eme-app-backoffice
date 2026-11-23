@@ -5,12 +5,12 @@
 			"path": ".",
 		},
 		{
-			"name": "eme_app_sdk",
-			"path": "../eme-app-sdk",
-		},
-				{
 			"name": "eme_chatbot",
 			"path": "../eme_chatbot",
+		},
+		{
+			"name": "eme_app_sdk",
+			"path": "../eme-app-sdk",
 		},
 		{
 			"name": "eme-server",
@@ -26,5 +26,5 @@
 		"files.associations": {
 			"**/eme-server/plugins/*/html/**/*.json": "velocity-json",
 		},
-	}
+	},
 }
