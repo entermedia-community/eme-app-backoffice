@@ -8,14 +8,16 @@
 			"name": "eme_app_sdk",
 			"path": "../eme-app-sdk",
 		},
+				{
+			"name": "eme_chatbot",
+			"path": "../eme_chatbot",
+		},
 		{
 			"name": "eme-server",
 			"path": "../eme-server",
 		},
 	],
 	"settings": {
-		"remoteControl.enable": true,
-		"remoteControl.port": 3709,
 		"cSpell.words": ["entermedia"],
 		"java.format.settings.url": "../eme-server/formatter.xml",
 		"java.compile.nullAnalysis.mode": "automatic",
