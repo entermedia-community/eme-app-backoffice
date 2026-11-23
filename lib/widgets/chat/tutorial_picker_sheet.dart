@@ -73,6 +73,7 @@ class _TutorialPickerSheetState extends State<TutorialPickerSheet> {
     return SafeArea(
       child: ConstrainedBox(
         constraints: BoxConstraints(
+          minHeight: MediaQuery.of(context).size.height * 0.4,
           maxHeight: MediaQuery.of(context).size.height * 0.7,
         ),
         child: Column(
