@@ -362,6 +362,22 @@ class MockApiService implements IApiService {
   @override
   Future<String> connectEventChat(String eventId) async => 'ch_$eventId';
 
+  @override
+  Future<String> connectVendorChat(String vendorId) async => 'ch_$vendorId';
+
+  @override
+  Future<void> changeChatScenario(
+    String channel, {
+    required String scenarioId,
+    required String functionName,
+  }) async {}
+
+  @override
+  Future<void> submitChatForm(
+    String channel,
+    Map<String, dynamic> values,
+  ) async {}
+
   /// Topics returned by [fetchTutorialTopics].
   final tutorialTopics = <TutorialTopic>[];
 
